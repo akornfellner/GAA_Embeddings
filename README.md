@@ -13,6 +13,7 @@ This repository contains a Jupyter notebook that serves as a presentation on vec
 2. **Introduction to Embeddings**
     - Definition and use-cases of embeddings
     - Text embeddings using OpenAI's text-embedding-3-large model
+    - Text embeddings using local open source models
 
 3. **Practical Examples**
     - Calculation of vector operations using Numpy
